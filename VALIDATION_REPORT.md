@@ -1,0 +1,136 @@
+# Validation Report - site_20260605_170018_f83371ca
+
+Generated: 2026-06-05T17:00:18.556686
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Ensemble Chaos: From Beginner to Expert
+- ✓ Article word count OK: The Ultimate Guide to Cartoon Physics
+- ✓ Article word count OK: Essential Cartoon Physics Techniques You Should Know
+- ✓ Article word count OK: Everything You Need to Know About Physical Comedy Icons
+- ✓ Article word count OK: The Best Resources for Cartoon Physics
+- ✓ Article word count OK: Ensemble Chaos: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Understanding Modern Slapstick Hits: A Deep Dive
+- ✓ Article word count OK: Exploring the World of Classic Silent Films
+- ✓ Article word count OK: Understanding Stunt-based Comedy: A Deep Dive
+- ✓ Article word count OK: Stunt-based Comedy: Must-Read Insights and Reviews
+- ✓ Article word count OK: Mastering Pranks and Gags in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Physical Comedy Icons
+- ✓ Article word count OK: Cartoon Physics 101: Complete Beginner's Guide
+- ✓ Article word count OK: Exploring the World of Ensemble Chaos
+- ✓ Article word count OK: The Art of the Pratfall 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Ultimate Guide to Prop Comedy History
+- ✓ Article word count OK: The Ultimate Guide to Stunt-based Comedy
+- ✓ Article word count OK: Proven Strategies for Classic Silent Films
+- ✓ Article word count OK: Modern Slapstick Hits: Must-Read Insights and Reviews
+- ✓ Article word count OK: Is Prop Comedy History Actually Worth It?
+- ✓ Article word count OK: The Future of Stunt-based Comedy: What to Expect
+- ✓ Article word count OK: Exploring the World of Modern Slapstick Hits
+- ✓ Article word count OK: The Best Resources for Prop Comedy History
+- ✓ Article word count OK: The Ultimate Guide to Pranks and Gags
+- ✓ Article word count OK: Pranks and Gags 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Visual Humor Masters: What to Expect
+- ✓ Article word count OK: Modern Slapstick Hits 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Visual Humor Masters: What to Expect
+- ✓ Article word count OK: The Future of The Art of the Pratfall: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Visual Humor Masters
+- ✓ Article word count OK: The Future of Stunt-based Comedy: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Classic Silent Films
+- ✓ Article word count OK: The Art of the Pratfall for Real People
+- ✓ Article word count OK: Proven Strategies for Modern Slapstick Hits
+- ✓ Article word count OK: Mastering Cartoon Physics in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Visual Humor Masters
+- ✓ Article word count OK: Mastering Classic Silent Films in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Visual Humor Masters
+- ✓ Article word count OK: Unlock Your Stunt-based Comedy Potential Now!
+- ✓ Article word count OK: Exploring the World of Ensemble Chaos
+- ✓ Article word count OK: Prop Comedy History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Exploring the World of Pranks and Gags
+- ✓ Article word count OK: The Ultimate Guide to Classic Silent Films
+- ✓ Article word count OK: Mastering Prop Comedy History in Easy Steps
+- ✓ Article word count OK: Is Prop Comedy History Actually Worth It?
+- ✓ Article word count OK: Modern Slapstick Hits: From Beginner to Expert
+- ✓ Article word count OK: Ensemble Chaos: Must-Read Insights and Reviews
+- ✓ Article word count OK: Everything You Need to Know About Classic Silent Films
+- ✓ Article word count OK: Proven Strategies for Visual Humor Masters
+- ✓ Article word count OK: Everything You Need to Know About Stunt-based Comedy
+- ✓ Article word count OK: Why You Need to Check Out Prop Comedy History
+- ✓ Article word count OK: The Hidden Secrets of Stunt-based Comedy
+- ✓ Article word count OK: Modern Slapstick Hits: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to The Art of the Pratfall
+- ✓ Article word count OK: Ensemble Chaos 101: Complete Beginner's Guide
+- ✓ Article word count OK: Physical Comedy Icons: Must-Read Insights and Reviews
+- ✓ Article word count OK: Pranks and Gags: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Pranks and Gags: From Beginner to Expert
+- ✓ Article word count OK: Classic Silent Films: From Beginner to Expert
+- ✓ Article word count OK: Proven Strategies for Ensemble Chaos
+- ✓ Article word count OK: The Art of the Pratfall: From Beginner to Expert
+- ✓ Article word count OK: Everything You Need to Know About Classic Silent Films
+- ✓ Article word count OK: Exploring the World of Modern Slapstick Hits
+- ✓ Article word count OK: Mastering Cartoon Physics in Easy Steps
+- ✓ Article word count OK: Exploring the World of Pranks and Gags
+- ✓ Article word count OK: Mastering Ensemble Chaos in Easy Steps
+- ✓ Article word count OK: Everything You Need to Know About The Art of the Pratfall
+- ✓ Article word count OK: Ensemble Chaos: Must-Read Insights and Reviews
+- ✓ Article word count OK: Understanding Cartoon Physics: A Deep Dive
+- ✓ Article word count OK: Exploring the World of Cartoon Physics
+- ✓ Article word count OK: The Hidden Secrets of Physical Comedy Icons
+- ✓ Article word count OK: Proven Strategies for The Art of the Pratfall
+- ✓ Article word count OK: The Hidden Secrets of The Art of the Pratfall
+- ✓ Article word count OK: Is Classic Silent Films Actually Worth It?
+- ✓ Article word count OK: Everything You Need to Know About Ensemble Chaos
+- ✓ Article word count OK: Mastering Modern Slapstick Hits in Easy Steps
+- ✓ Article word count OK: Why Physical Comedy Icons is Trending in 2026
+- ✓ Article word count OK: The Hidden Secrets of The Art of the Pratfall
+- ✓ Article word count OK: Exploring the World of The Art of the Pratfall
+- ✓ Article word count OK: The Ultimate Guide to Prop Comedy History
+- ✓ Article word count OK: Understanding Cartoon Physics: A Deep Dive
+- ✓ Article word count OK: Modern Slapstick Hits: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Future of Pranks and Gags: What to Expect
+- ✓ Article word count OK: Exploring the World of Classic Silent Films
+- ✓ Article word count OK: The Ultimate Guide to Visual Humor Masters
+- ✓ Article word count OK: Everything You Need to Know About Stunt-based Comedy
+- ✓ Article word count OK: Ensemble Chaos: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Lowdown on Stunt-based Comedy
+- ✓ Article word count OK: Understanding Stunt-based Comedy: A Deep Dive
+- ✓ Article word count OK: Visual Humor Masters: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Prop Comedy History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Exploring the World of Ensemble Chaos
+- ✓ Article word count OK: Exploring the World of Stunt-based Comedy
+- ✓ Article word count OK: The Art of the Pratfall for Real People
+- ✓ Article word count OK: Mastering Stunt-based Comedy in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of The Art of the Pratfall
+- ✓ Article word count OK: Understanding The Art of the Pratfall: A Deep Dive
+- ✓ Article word count OK: Modern Slapstick Hits: From Beginner to Expert
+- ✓ Article word count OK: What They Don't Tell You About The Art of the Pratfall
+- ✓ Article word count OK: Prop Comedy History 101: Complete Beginner's Guide
+- ✓ Article word count OK: Essential Prop Comedy History Techniques You Should Know
+- ✓ Article word count OK: Proven Strategies for Visual Humor Masters
+- ✓ Article word count OK: Understanding Modern Slapstick Hits: A Deep Dive
+- ✓ Article word count OK: Mastering The Art of the Pratfall in Easy Steps
+- ✓ Article word count OK: Amazing Secrets of Prop Comedy History!
+- ✓ Article word count OK: Why You Need to Check Out Ensemble Chaos
+- ✓ Article word count OK: Why You Need to Check Out Modern Slapstick Hits
+- ✓ Article word count OK: Physical Comedy Icons: Common Mistakes and How to Avoid Them
+- ✓ Ad configuration validated

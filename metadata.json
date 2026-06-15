@@ -1,0 +1,45 @@
+{
+  "siteId": "site_20260605_170018_f83371ca",
+  "generatedAt": "2026-06-05T17:00:18.557535",
+  "categories": [
+    "kettlebell-training",
+    "jump-rope-workout",
+    "yoga-ball-exercises",
+    "resistance-band-routine",
+    "small-equipment-guide",
+    "no-equipment-techniques"
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "site_20260605_170018_f83371ca",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Montserrat",
+      "family": "'Montserrat', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');"
+    },
+    "layout": "sidebar-left",
+    "border_radius": "24px",
+    "box_shadow": "none",
+    "article_card_style": "list",
+    "header_style": "classic",
+    "footer_style": "detailed",
+    "modules": [
+      "newsletter-signup",
+      "popular-tags",
+      "trending-articles",
+      "recent-comments",
+      "about-widget"
+    ],
+    "site_title": "Fitness Pro",
+    "articles_per_row": 1
+  }
+}
